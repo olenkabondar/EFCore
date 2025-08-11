@@ -1,0 +1,15 @@
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\3Task.csproj.AssemblyReference.cache
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\_3Task.Form1.resources
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\_3Task.Properties.Resources.resources
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\3Task.csproj.GenerateResource.cache
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\3Task.csproj.CoreCompileInputs.cache
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\3Task.exe.config
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\3Task.exe
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\3Task.pdb
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\EntityFramework.dll
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\EntityFramework.SqlServer.dll
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\EntityFramework.xml
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\bin\Debug\EntityFramework.SqlServer.xml
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\3Task.csproj.Up2Date
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\3Task.exe
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\3Task\obj\Debug\3Task.pdb
