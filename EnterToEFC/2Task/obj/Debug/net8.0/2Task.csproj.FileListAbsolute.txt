@@ -150,3 +150,4 @@ C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\2Task\obj\Debug\net8.0\ref
 C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\2Task\obj\Debug\net8.0\2Task.pdb
 C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\2Task\obj\Debug\net8.0\2Task.genruntimeconfig.cache
 C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\2Task\obj\Debug\net8.0\ref\2Task.dll
+C:\STUDY\Entity Framework Core\HomeWorkEFC\EnterToEFC\2Task\obj\Debug\net8.0\2Task.sourcelink.json
